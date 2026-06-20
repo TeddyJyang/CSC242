@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\Veteran\Desktop\C++Learning\Hello\Hello\Main.cpp(8,1): error C4700: uninitialized local variable 'a' used

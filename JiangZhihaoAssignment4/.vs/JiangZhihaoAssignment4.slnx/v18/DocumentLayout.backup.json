@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veteran\\Desktop\\C\u002B\u002BLearning\\GitHub\\CSC_242_HW\\JiangZhihaoAssignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760518A2-9FDB-42A9-87B5-08C2E3A29661}|JiangZhihaoAssignment4.vcxproj|C:\\Users\\Veteran\\Desktop\\C\u002B\u002BLearning\\GitHub\\CSC_242_HW\\JiangZhihaoAssignment4\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{760518A2-9FDB-42A9-87B5-08C2E3A29661}|JiangZhihaoAssignment4.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Veteran\\Desktop\\C\u002B\u002BLearning\\GitHub\\CSC_242_HW\\JiangZhihaoAssignment4\\source.cpp",
+              "RelativeDocumentMoniker": "source.cpp",
+              "ToolTip": "C:\\Users\\Veteran\\Desktop\\C\u002B\u002BLearning\\GitHub\\CSC_242_HW\\JiangZhihaoAssignment4\\source.cpp",
+              "RelativeToolTip": "source.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-10T19:57:30.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
